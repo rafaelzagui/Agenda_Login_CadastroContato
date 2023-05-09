@@ -10,4 +10,4 @@ Navbar com links  Agenda que mostra todos os contatos, sair que só é mostrado 
 <br>
 <img height="400em" src="./imgs/telaInicial.png">
 <br>
-<img height="400em" src="./imgs/telaCdastroContato.png">
+<img height="400em" src="./imgs/telaCadastroContato.png">
